@@ -1,9 +1,9 @@
 {
-1: "Niečo je špatne\nSkontroluj svoje internetové pripojenie.",
-2: "Je dostupná nová verzia! Pre pokračovanie si ju aktualizuj!",
-3: "Ďalší život za: ",
-4: "Tvoje aktuálne nazbierané skusenosti. Skúsenosti zbieraš vykonávaním jednotlivých lekcií.",
-5: "Nemáš aktivované prémium!",
-6: "Máš aktivované prémium.\nPrémium končí za: ",
-7: "Pracuje sa na tom"
+"1": "Niečo je špatne\nSkontroluj svoje internetové pripojenie.",
+"2": "Je dostupná nová verzia! Pre pokračovanie si ju aktualizuj!",
+"3": "Ďalší život za: ",
+"4": "Tvoje aktuálne nazbierané skusenosti. Skúsenosti zbieraš vykonávaním jednotlivých lekcií.",
+"5": "Nemáš aktivované prémium!",
+"6": "Máš aktivované prémium.\nPrémium končí za: ",
+"7": "Pracuje sa na tom"
 }
