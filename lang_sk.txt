@@ -5,5 +5,11 @@
 "4": "Tvoje aktuálne nazbierané skusenosti. Skúsenosti zbieraš vykonávaním jednotlivých lekcií.",
 "5": "Nemáš aktivované prémium!",
 "6": "Máš aktivované prémium.\nPrémium končí za: ",
-"7": "Pracuje sa na tom"
+"7": "Európa",
+"8": "Západná Európa",
+"9": "Východná Európa",
+"10": "Stredná Európa",
+"11": "Južná Európa",
+"12": "Severná Európa",
+"13": "Celá Európa"
 }
