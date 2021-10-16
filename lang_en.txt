@@ -14,7 +14,7 @@
 "13":"All of Europe",
 "14":"ERROR",
 "15":"Cannot be opened without an Internet connection",
-"16":"OK",
+"16":"Try again",
 "17":"Loading",
 "18":"Downloading necessary files ..",
 "19":"Checking version ..",
