@@ -14,7 +14,7 @@
 "13": "Celá Európa",
 "14": "ERROR",
 "15": "Nie je možné spustiť bez internetového pripojenia",
-"16": "OK",
+"16": "Skúsiť znova",
 "17": "Načítavam",
 "18": "Sťahujem potrebné súbory..",
 "19": "Kontrolujem verziu..",
