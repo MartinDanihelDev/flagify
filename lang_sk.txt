@@ -13,5 +13,6 @@
 "12": "Severná Európa",
 "13": "Celá Európa",
 "14": "ERROR",
-"15": "Nie je možné spustiť bez internetového pripojenia"
+"15": "Nie je možné spustiť bez internetového pripojenia",
+"16": "OK"
 }
