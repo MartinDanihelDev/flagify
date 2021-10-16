@@ -11,5 +11,6 @@
 "10": "Stredná Európa",
 "11": "Južná Európa",
 "12": "Severná Európa",
-"13": "Celá Európa"
+"13": "Celá Európa",
+"14": "ERROR"
 }
