@@ -14,10 +14,19 @@
 "13": "Celá Európa",
 "14": "ERROR",
 "15": "Nie je možné spustiť bez internetového pripojenia",
-"16": "Skúsiť znova",
+"16": "OK",
 "17": "Načítavam",
 "18": "Sťahujem potrebné súbory..",
 "19": "Kontrolujem verziu..",
 "20": "Kontrolujem verziu jazyka..",
-"21": "Získavam dáta uživateľa.."
+"21": "Získavam data užívateľa",
+"22": "Česká Republika",
+"23": "Lichtenšajnsko",
+"24": "Maďarsko",
+"25": "Nemecko",
+"26": "Poľsko",
+"27": "Rakúsko",
+"28": "Slovensko",
+"29": "Slovinsko",
+"30": "Švajčiarsko"
 }
