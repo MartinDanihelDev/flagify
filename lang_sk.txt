@@ -46,5 +46,14 @@
 "45": "Viedeň",
 "46": "Bratislava",
 "47": "Ľubľana",
-"48": "Bern"
+"48": "Bern",
+"49": "Čeština, Slovenčina",
+"50": "Nemčina",
+"51": "Maďarčina",
+"52": "Nemčina",
+"53": "Poľština",
+"54": "Nemčina",
+"55": "Slovenčina",
+"56": "Slovinčina, Slovenčina"
+"57": "Nemčina, Francúžština, Taliančina, Romanši"
 }
