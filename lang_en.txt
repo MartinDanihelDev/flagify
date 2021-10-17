@@ -53,7 +53,7 @@
 "52": "German",
 "53": "Polish",
 "54": "German",
-"55": "Slovenčina",
-"56": "Slovenian, Slovenčina",
+"55": "Slovak",
+"56": "Slovenian, Slovak",
 "57": "German, French, Italian, Romansh"
 }
