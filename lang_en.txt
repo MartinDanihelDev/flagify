@@ -8,7 +8,7 @@
 "7": "Europe",
 "8": "Western Europe",
 "9": "Eastern Europe",
-"10": "Central Europe",
+"10": "Middle Europe",
 "11": "Southern Europe",
 "12": "Northern Europe",
 "13": "All of Europe",
