@@ -1,10 +1,10 @@
 {
-"1":"Something is wrong \\ nCheck your internet connection.",
+"1":"Something is wrong\nCheck your internet connection.",
 "2":"A new version is available! Please update to continue!",
 "3":"Another life for:",
 "4":"Your current lessons learned. You gain lessons from taking each lesson.",
 "5":"You do not have a premium activated!",
-"6":"You have a premium activated. \\ NPremium ends in:",
+"6":"You have a premium activated.\nPremium ends in:",
 "7":"Europe",
 "8":"Western Europe",
 "9":"Eastern Europe",
