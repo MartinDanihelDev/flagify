@@ -54,6 +54,6 @@
 "53": "Poľština",
 "54": "Nemčina",
 "55": "Slovenčina",
-"56": "Slovinčina, Slovenčina"
+"56": "Slovinčina, Slovenčina",
 "57": "Nemčina, Francúžština, Taliančina, Romanši"
 }
