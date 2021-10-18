@@ -55,5 +55,7 @@
 "54": "Nemčina",
 "55": "Slovenčina",
 "56": "Slovinčina, Slovenčina",
-"57": "Nemčina, Francúžština, Taliančina, Romanši"
+"57": "Nemčina, Francúžština, Taliančina, Romanši",
+"58": "Populácia",
+"59": "Hlavné mesto"
 }
